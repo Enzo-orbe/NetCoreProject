@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{FDBD3E86-A102-4DC1-82E3-C623D76E0794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinesLogic", "BussinesLogic\BussinesLogic.csproj", "{F14ACF39-B1E1-4DD7-8E24-13074E324050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{89B70BFF-BBC4-4514-9DA4-E207E39E800C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBD3E86-A102-4DC1-82E3-C623D76E0794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBD3E86-A102-4DC1-82E3-C623D76E0794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBD3E86-A102-4DC1-82E3-C623D76E0794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBD3E86-A102-4DC1-82E3-C623D76E0794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14ACF39-B1E1-4DD7-8E24-13074E324050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14ACF39-B1E1-4DD7-8E24-13074E324050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14ACF39-B1E1-4DD7-8E24-13074E324050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14ACF39-B1E1-4DD7-8E24-13074E324050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B70BFF-BBC4-4514-9DA4-E207E39E800C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B70BFF-BBC4-4514-9DA4-E207E39E800C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B70BFF-BBC4-4514-9DA4-E207E39E800C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B70BFF-BBC4-4514-9DA4-E207E39E800C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294E0E49-73B0-4D11-9182-1FB79FC77E5A}
+	EndGlobalSection
+EndGlobal
