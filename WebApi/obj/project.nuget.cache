@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "V35SP9Vmmo9hTFYno4gHmvO+wOBr/jrnh/JtbAinQ97oT1at73byUFe6LVL21cuHO9ROMFvWFPZqb7K9Hsfgyw==",
+  "dgSpecHash": "cSVrcg1Gyyy/SUHatO8gRd8ooXCIoCwWl7MjFU8fWfh0Bn4c+AIgPFDBmryt0PY6nIDWnNZ0wTGtKuaLJ8HL0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Enzo.Orbe\\Desktop\\Curso Angular\\Api-NetCore\\NetCoreEcommerce\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
+    "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",
+    "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
@@ -17,6 +20,8 @@
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.0\\microsoft.extensions.identity.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.0\\microsoft.extensions.identity.stores.5.0.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Enzo.Orbe\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
