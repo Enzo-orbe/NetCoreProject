@@ -29,7 +29,7 @@ namespace WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<MarketDbContext>(opt => {
-                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));              
             });
             services.AddTransient<IProductoRepository, ProductoRepository>();
             services.AddControllers();

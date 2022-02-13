@@ -1,4 +1,6 @@
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.deps.json
+C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.runtimeconfig.json
+C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.runtimeconfig.dev.json
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.dll
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\ref\BussinesLogic.dll
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.pdb
@@ -13,6 +15,4 @@ C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLo
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\obj\Debug\net5.0\BussinesLogic.dll
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\obj\Debug\net5.0\ref\BussinesLogic.dll
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\obj\Debug\net5.0\BussinesLogic.pdb
-C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.runtimeconfig.json
-C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\bin\Debug\net5.0\BussinesLogic.runtimeconfig.dev.json
 C:\Users\Enzo.Orbe\Desktop\Curso Angular\Api-NetCore\NetCoreEcommerce\BussinesLogic\obj\Debug\net5.0\BussinesLogic.genruntimeconfig.cache
